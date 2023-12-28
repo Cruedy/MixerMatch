@@ -231,7 +231,7 @@ function nextQuestion() {
 
 // Stores entire quiz
 function storeQuiz() {
-
+    // how are we gonna do this
 }
 
 function submit() {
